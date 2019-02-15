@@ -1,0 +1,23 @@
+{
+  "name": "numerical-tricks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horngyih/numerical-tricks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/horngyih/numerical-tricks/issues"
+  },
+  "homepage": "https://github.com/horngyih/numerical-tricks#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
